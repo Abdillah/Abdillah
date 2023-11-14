@@ -6,7 +6,7 @@ I'm interested in,
 
 - 🌐 **Web Development** in any language and framework.
 - ⛓️ **FFI Development** for Python+Rust, NodeJs+Rust.
-- ♻️ **Developer Operation (DevOps)** on any platform and Linux server.
+- ♻️ **Developer Operation (DevOps)** on any automation platform and Linux server.
 
 # 🌱 Grow and Investment
 Rustacean :crab: here!<br/>
