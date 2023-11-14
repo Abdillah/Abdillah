@@ -13,5 +13,5 @@ Rustacean :crab: here!<br/>
 I want to use Rust everywhere if I could (I couldn't).<br/>
 That's why, I have a lot of side projects and pull requests related to Rust.
 
-Also Reason 🐫 fan here, cause Rust isn't for everything.
+Also, I am a Reason-able 🐫 man, cause Rust isn't for everything.
 Both are heavily influenced with functional paradigm which feels cleaner and bugless, but practical enough.
