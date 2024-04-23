@@ -1,4 +1,4 @@
-Hello, I am **[@Abdillah](https://github.com/Abdillah)**!<br/>
+Hello, I am **[Faïz](https://github.com/Abdillah)**!<br/>
 Software engineer with 10 years+ in programming 💻 and a Linux super-user 🐧.
 
 # 🏹 Freelancing
